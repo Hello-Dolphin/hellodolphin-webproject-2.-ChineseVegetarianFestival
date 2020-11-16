@@ -9,6 +9,7 @@ import Color from './component/color';
 import reportWebVitals from './reportWebVitals';
 import Navbar from './component/navbar';
 import Mascot from './component/mascot';
+import Member from './component/member';
 
 
 
@@ -22,6 +23,7 @@ ReactDOM.render(
     <Food />
     <Color />
     <Mascot />
+    <Member />
   
     
 

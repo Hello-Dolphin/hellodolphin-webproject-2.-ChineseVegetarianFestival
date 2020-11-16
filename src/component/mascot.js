@@ -8,6 +8,8 @@ function Mascot() {
     <div className="Mascot">
       
       <div className="props">
+      <img src={mascot} width='400pt' className="nongtofu " />
+      <img src={mascot} width='400pt' className="nongtofu" />
       <img src={mascot} width='400pt' className="nongtofu" />
       <p className="invite">แล้วมากินเจด้วยกันนะฮะ&nbsp;^3^</p>
       </div>

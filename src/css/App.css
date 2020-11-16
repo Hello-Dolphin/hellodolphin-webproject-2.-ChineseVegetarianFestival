@@ -102,9 +102,10 @@
 }
 .a8{
   position: absolute;
-  top: 7000px;left: 0px;right: 0px;bottom: 0px;
+  top: 7000px;left: 0px;right: 400px;bottom: 0px;
   margin: 0 auto;
   animation: Cloud38 27s linear infinite;
+  
 }
 .a9{
   position: absolute;
@@ -206,8 +207,8 @@
 
 .w7 {
   position: absolute;
-  top: 5300pt; left: 1169px;right: 0px;bottom: 0px;
-  width: 350px;
+  top: 5300pt; left: 1218px;right: 0px;bottom: 0px;
+  width: 300px;
 
 }
 

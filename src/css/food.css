@@ -28,7 +28,11 @@
   font-style: normal;
 
 }
-  
+
+  .thishover:hover{
+  box-shadow : 3px 3px 6px rgba(0, 0, 0,0.4);
+  transition: 1s;
+  }
   p{ 
     font-family: 'fc_activelight';
     color: black;
@@ -61,7 +65,7 @@
   .foodtopic{
     margin-bottom : 52pt;
     text-shadow : 3px 3px 6px #000000;
-    color: #842424;
+    color: black;
     font-size: 144pt;
     background-size: 56%;
     background-repeat: no-repeat;
