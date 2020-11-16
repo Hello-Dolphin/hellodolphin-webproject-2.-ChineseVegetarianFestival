@@ -3,10 +3,6 @@ import React, {Component} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Logo from '../image/Navlogo.png';
 import '../css/navbar.css';
-import App from '../component/App';
-import Story from '../component/story';
-import Food from '../component/food';
-import Color from '../component/color';
 var Scroll = require('react-scroll');
 
 class Navbar extends Component{
